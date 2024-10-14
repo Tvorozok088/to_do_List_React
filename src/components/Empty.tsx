@@ -1,4 +1,3 @@
-import React from "react";
 import emptyWhite from "../assets/empty-white.png";
 import emptyDark from "../assets/empty-dark.png";
 
